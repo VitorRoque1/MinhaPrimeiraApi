@@ -57,10 +57,13 @@ Neste projeto conseguimos consultar cada elemento por ID, pois tem integridade c
 Utilizando O POST
 ![image](https://github.com/VitorRoque1/MinhaPrimeiraApi/assets/153464680/ad72619f-886c-4d11-a82f-2faed70ea3d2)
 
+
 Utilizando o GET
+
 ![image](https://github.com/VitorRoque1/MinhaPrimeiraApi/assets/153464680/adb5869d-7eb1-4a56-8617-904fb92fc03b)
 
 Utilizando o DELETE
+
 ![image](https://github.com/VitorRoque1/MinhaPrimeiraApi/assets/153464680/2d161edc-983a-4663-883f-17c6c1dcbfd9)
 
 
