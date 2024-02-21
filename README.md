@@ -1,12 +1,5 @@
 
-## 🛠 Habilidades
-Postman, Putch, Delete, GET, POST e MYSQL
-
-
-## Aprendizados
-
-
-Habilidade e conhecimentos colocado em pratica 
+## Cocnhecimentos aplicados
 
 º Como abrir uma conexão entre a API e o banco de dados através do EntityFramework.
 
@@ -22,6 +15,10 @@ Habilidade e conhecimentos colocado em pratica
 
 ## Frameworks
 ![image](https://github.com/VitorRoque1/MinhaPrimeiraApi/assets/153464680/570b004a-8fb6-48e5-b517-c5cdefd1b80d)
+
+## Swagger
+![image](https://github.com/VitorRoque1/MinhaPrimeiraApi/assets/153464680/3d8bc13c-aa44-4f37-8b62-cd9c9a6d510d)
+
 
 
 ## Documentação
