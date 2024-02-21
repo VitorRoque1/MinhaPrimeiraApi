@@ -1,5 +1,5 @@
 
-## Cocnhecimentos aplicados
+## Conhecimentos aplicados
 
 º Como abrir uma conexão entre a API e o banco de dados através do EntityFramework.
 
